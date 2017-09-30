@@ -7,6 +7,7 @@ Hamming code uses redundant bits (extra bits) which are calculated according to 
     2^r ≥ m+r+1
 
 Where r is the number of redundant bits required and m is the number of data bits.
+
     R is calculated by putting r = 1, 2, 3 … until the above equation becomes true.
     R1 bit is appended at position 20
     R2 bit is appended at position 21
